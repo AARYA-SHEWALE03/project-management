@@ -12,7 +12,8 @@ Sidebar Navigation Projects Section: Includes "View Projects" and "Create New Pr
 
 UI/UX Improvements Modern & responsive design using Tailwind CSS Smooth transitions & hover effects for an interactive experience Real-time notifications for feedback and error handling
 
-![Dashboard 1](https://github.com/user-attachments/assets/678edd7b-ec9b-494d-9a3e-306cdf95893f)
+![Dashboard 1](https://github.com/user-attachments/assets/23e2d979-cdcb-4573-8137-921cd1c8c934)
+
 ![Dashboard 2](https://github.com/user-attachments/assets/40ea0920-d3f3-443b-9415-98b244421254)
 ![Signup](https://github.com/user-attachments/assets/d53e26ab-2e62-4494-85e8-1808f063a481)
 ![Login](https://github.com/user-attachments/assets/cdb1dafa-423c-4bcb-bc9e-1f760c0c94ae)
